@@ -8,7 +8,7 @@ The objective of this project is to transform raw Super Store sales data into me
 
 ## Dashboard Preview
 
-![Super Store Sales Dashboard](./Dashboard%20image.png)
+![Super Store Sales Dashboard](./Dashboard_image.png)
 
 
 ## Business Problem
